@@ -8,7 +8,9 @@
 [node name="Platform" parent="." instance=ExtResource( 2 )]
 
 [node name="Platform2" parent="." instance=ExtResource( 2 )]
-position = Vector2( 534, 181 )
+position = Vector2( 551, 251 )
+
+[node name="Platform3" parent="." instance=ExtResource( 2 )]
+position = Vector2( 776, 257 )
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-speed = 200.0
